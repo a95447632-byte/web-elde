@@ -1,0 +1,1 @@
+export const BRAND_PARTNERS = ['SAMSUNG', 'LG', 'BOSCH', 'XIAOMI', 'ARTEL', 'TCL', 'HISENSE']
