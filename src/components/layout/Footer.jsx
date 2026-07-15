@@ -15,11 +15,7 @@ export function Footer() {
               <span className="brand-mark" aria-hidden="true" />
               <span>ELDE</span>
             </NavLink>
-            <p>Andijon viloyati bo'ylab filiallarimiz orqali sifatli elektronika va maishiy texnika yetkazib beramiz. 2019-yildan beri xizmatingizdamiz.</p>
-            <div className="social-row" style={{ marginTop: 22 }}>
-              <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer" aria-label="Telegram"><IconTelegram style={{ width: 18, height: 18, color: '#fff' }} /></a>
-              <a href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer" aria-label="Instagram"><IconInstagram style={{ width: 18, height: 18, color: '#fff' }} /></a>
-            </div>
+            <p>Andijon viloyati bo'ylab 12 filial orqali sifatli elektronika va maishiy texnika yetkazib beramiz. 2019-yildan beri xizmatingizdamiz.</p>
           </div>
 
           <div className="footer-col">
@@ -33,16 +29,16 @@ export function Footer() {
             <h5>Aloqa</h5>
             <a href={`tel:${PHONE_TEL}`}>{PHONE_DISPLAY}</a>
             <a href={`mailto:${EMAIL}`}>{EMAIL}</a>
-            <ul className="footer-list">
-              <li>Andijon shahri, markaziy hudud</li>
-            </ul>
+            <li>Andijon shahri, markaziy hudud</li>
+            <div className="social-row" style={{ marginTop: 14 }}>
+              <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer" aria-label="Telegram"><IconTelegram style={{ width: 18, height: 18, color: '#fff' }} /></a>
+              <a href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer" aria-label="Instagram"><IconInstagram style={{ width: 18, height: 18, color: '#fff' }} /></a>
+            </div>
           </div>
 
           <div className="footer-col">
             <h5>Ish vaqti</h5>
-            <ul className="footer-list">
-              <li>Dam olish kunlarisz: 09:00–20:00</li>
-            </ul>
+            <li>Dam olish kunlarisz: 09:00–20:00</li>
           </div>
         </div>
 

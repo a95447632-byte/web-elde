@@ -36,7 +36,7 @@ export const VACANCIES = [
     employmentType: "To'liq bandlik",
     title: 'Sotuvchi',
     image: '/images/vacancies/sotuvchi.png',
-    text: "Mijozlarga texnika tanlashda yordam berasiz, mahsulot xususiyatlari haqida maslahat berasiz va savdo bo'limida ishlaysiz.",
+    text: "Mijozlarga mahsulot tanlashda yordam berasiz, mahsulot xususiyatlari haqida maslahat berasiz va savdo bo'limida ishlaysiz.",
   },
  
   {
@@ -53,7 +53,7 @@ export const VACANCIES = [
     employmentType: "To'liq bandlik",
     title: 'Yetkazib beruvchi',
     image: '/images/vacancies/yetkazibberuvchi.png',
-    text: "Mijozlarga texnikani manzilga yetkazib berasiz, yetkazib berish jadvalini rejalashtirasiz.",
+    text: "Mijozlarga mahsulotni manzilga yetkazib berasiz, yetkazib berish jadvalini rejalashtirasiz.",
   },
  
   {
@@ -62,7 +62,7 @@ export const VACANCIES = [
     employmentType: "To'liq bandlik",
     title: 'Marketing hodimi',
     image: '/images/vacancies/marketing.png',
-    text: "Reklama va aksiyalarni rejalashtirasiz, ijtimoiy tarmoqlarni yuritasiz va brend tanilishini oshirish uchun ishlaysiz.",
+    text: "Reklama va aksiyalarni rejalashtirasiz, Hududlarda targ'ibot ishlarini olib borasz,  ijtimoiy tarmoqlarni yuritasiz va brend tanilishini oshirish uchun ishlaysiz.",
   },
   {
     id: 7,

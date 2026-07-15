@@ -12,4 +12,5 @@ export const PROMOS = [
   { id: 4, category: 'maishiy', badge: 'Chegirma', off: '-25%', icon: IconFridge, image: '/images/promotions/muzlatgich.png', title: 'Muzlatkichlar chegirmasi', text: 'A+++ energiya tejamkor muzlatkichlarga 25% gacha chegirma va bepul yetkazib berish.', meta: ['20.08.2026 gacha', 'Barcha filiallarda'] },
   { id: 5, category: 'tv', badge: 'Kombinatsiya', off: '-10%', icon: IconTv, image: '/images/promotions/tvsaundbar.png', title: 'TV + soundbar to\'plami', text: 'Smart TV bilan birga soundbar xarid qilganda qo\'shimcha 10% chegirma.', meta: ['10.09.2026 gacha', 'Barcha filiallarda'] },
   { id: 6, category: 'mobil', badge: 'Talaba aksiyasi', off: '-12%', icon: IconPhoneDevice, image: '/images/promotions/talaba.png', title: 'Talabalar uchun maxsus narx', text: 'Talaba guvohnomasi bilan noutbuk va planshetlarga 12% qo\'shimcha chegirma.', meta: ['01.10.2026 gacha', 'Barcha filiallarda'] },
+  
 ]
