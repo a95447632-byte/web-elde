@@ -26,7 +26,7 @@ export function AboutPage() {
             <p>Har bir filialimizda malakali maslahatchilar ishlaydi, ular mijozlarga aynan ularning ehtiyojiga mos texnikani tanlashda yordam beradi. Shuningdek, biz mijozlarimiz uchun qulay muddatli to'lov va bepul yetkazib berish xizmatlarini taqdim etamiz.</p>
           </Reveal>
           <Reveal className="about-visual">
-            <img src="/images/about/elde-logo.jpg" alt="ELDE jamoasi" />
+            <img src="/images/about/ede-logo.jpg" alt="ELDE jamoasi" />
           </Reveal>
         </div>
       </section>
