@@ -63,7 +63,7 @@ export function HomePage() {
       <section className="section">
         <div className="container about-snippet">
           <Reveal className="about-visual">
-              <img src="/images/about/elde.jpg" alt="ELDE jamoasi" />
+              <img src="/images/about/elde-logo.jpg" alt="ELDE jamoasi" />
           </Reveal>
           <Reveal className="about-copy">
             <span className="eyebrow">Biz haqimizda</span>
