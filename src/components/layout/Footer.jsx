@@ -15,7 +15,7 @@ export function Footer() {
               <span className="brand-mark" aria-hidden="true" />
               <span>ELDE</span>
             </NavLink>
-            <p>Andijon viloyati bo'ylab 12 filial orqali sifatli elektronika va maishiy texnika yetkazib beramiz. 2019-yildan beri xizmatingizdamiz.</p>
+            <p>Andijon viloyati bo'ylab  filiallar orqali sifatli elektronika va maishiy texnika yetkazib beramiz. 2019-yildan beri xizmatingizdamiz.</p>
           </div>
 
           <div className="footer-col">

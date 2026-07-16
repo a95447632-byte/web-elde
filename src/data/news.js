@@ -13,7 +13,6 @@ export const NEWS = [
   { id: 2, category: 'hamkorlik', badge: 'Hamkorlik', icon: IconHandshake, title: 'Yetakchi brendlar bilan yangi shartnoma', text: '2026-yil uchun yirik ishlab chiqaruvchilar bilan rasmiy hamkorlik kengaytirildi.', date: '15.06.2026' },
   { id: 3, category: 'xizmat', badge: 'Xizmat', icon: IconCard, title: 'Muddatli to\'lov shartlari yaxshilandi', text: 'Endi birgina passport orqali 12 oygacha, passport va plastik karta orqali esa 24 oygacha bo\'lib to\'lash barcha filiallarda mavjud.', date: '02.06.2026' },
   { id: 4, category: 'filial', badge: 'Filial', icon: IconBuilding, title: 'Andijon filiali yangilandi', text: 'Andijon filialimiz kengaytirilib, yangi mahsulot turlari bilan boyitildi.', date: '20.05.2026' },
-  { id: 5, category: 'hamkorlik', badge: 'Hamkorlik', icon: IconStar, title: 'Yilning eng yaxshi diler mukofoti', text: 'ELDE yetakchi brend tomonidan "Yilning eng yaxshi dileri" unvoniga sazovor bo\'ldi.', date: '02.05.2026' },
   { id: 6, category: 'xizmat', badge: 'Xizmat', icon: IconTruck, title: 'Yetkazib berish geografiyasi kengaydi', text: 'Endi bepul yetkazib berish xizmati barcha viloyat markazlarida ham mavjud.', date: '10.04.2026' },
 ]
 

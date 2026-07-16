@@ -12,7 +12,7 @@ export const DEVICE_SLIDES = [
     badge: 'Eng ko\'p sotiladigan',
     icon: IconPhoneDevice,
     title: 'Flagman smartfonlar',
-    text: 'Rasmiy kafolat, oson bo\'lib to\'lash 0% ustama bilan',
+    text: 'Rasmiy kafolat, oson bo\'lib to\'lash boshlangich to\'lovsiz',
     price: 'Muddatli to\'lov 24 oy',
   },
   {
